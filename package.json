@@ -6,6 +6,9 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
+	"repository": {
+		"git": "https://github.com/nick121212/webim-tencent"
+	},
 	"author": "NICK",
 	"license": "MIT"
 }
