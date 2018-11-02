@@ -7274,3 +7274,5 @@ var webim = { // namespace object webim
         return checkLogin(cbErr, isNeedCallBack);
     };
 })(webim);
+
+exports= module.exports = webim;
