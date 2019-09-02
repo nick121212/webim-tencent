@@ -1,6 +1,6 @@
 {
 	"name": "webim-tencent",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "腾讯云通讯im文件",
 	"main": "webim.js",
 	"scripts": {
